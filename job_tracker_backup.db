@@ -1,0 +1,1 @@
+Copy-Item .\job_tracker.db .\job_tracker_backup.db
